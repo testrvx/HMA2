@@ -21,6 +21,7 @@ Additionally, some apps use various loopholes to acquire your app list, in order
 
 This module can work as an Xposed module to hide apps or reject app list requests, and provides some methods to test whether you have hidden your app list properly.
 
+ 
 ## Copyright Notice
 
 Copyright © 2025 HMA developers. All rights reserved.
