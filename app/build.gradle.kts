@@ -106,7 +106,6 @@ dependencies {
     implementation(projects.common)
     runtimeOnly(projects.xposed)
 
-    implementation(platform(libs.com.google.firebase.bom))
     implementation(libs.androidx.navigation.fragment.ktx)
     implementation(libs.androidx.navigation.ui.ktx)
     implementation(libs.androidx.preference.ktx)
@@ -118,8 +117,6 @@ dependencies {
     implementation(libs.com.github.liujingxing.rxhttp.converter.serialization)
     implementation(libs.com.github.topjohnwu.libsu.core)
     implementation(libs.com.google.android.material)
-    implementation(libs.com.google.android.gms.play.services.ads)
-    implementation(libs.com.google.firebase.analytics.ktx)
     implementation(libs.com.squareup.okhttp3)
     implementation(libs.dev.rikka.hidden.compat)
     implementation(libs.dev.rikka.rikkax.material)
